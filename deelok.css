@@ -1,0 +1,19 @@
+img{
+    background-color:rebeccapurple;
+    width: 150px;
+    margin-right: 25px;
+    float: left;
+    background-color: cadetblue;
+
+}
+#th{
+    width: 150px;
+    height: 100px;
+}
+#pp{
+    float: left;
+}
+#hg{
+    width: 1600px;
+    height: 100px;
+}
